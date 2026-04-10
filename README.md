@@ -6,6 +6,14 @@
 
 An interactive web tool to visualize **Dijkstra's Algorithm**. Build your own graph, set weights, and find the shortest path in real-time.
 
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditya484/Dijkstra-Visualizer/main/screenshots/ouput1.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/aditya484/Dijkstra-Visualizer/main/screenshots/Output2.png" width="45%" />
+</p>
+
 ---
 
 ## ✨ Features
