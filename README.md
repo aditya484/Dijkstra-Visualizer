@@ -13,7 +13,6 @@ An interactive web tool to visualize **Dijkstra's Algorithm**. Build your own gr
 - ⚡ **Real-time Pathfinding:** Computation happens as you interact.
 - 🎨 **Visual Feedback:** Shortest paths highlighted automatically.
 
----
 
 ## ⚙️ Quick Start
 
