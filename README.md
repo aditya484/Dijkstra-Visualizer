@@ -130,7 +130,7 @@ Dijkstra's algorithm is a greedy algorithm that finds the shortest path between 
 ### [Aditya Verma](https://github.com/aditya484)
 
 [![GitHub](https://img.shields.io/badge/GitHub-aditya484-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya484)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya484/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya484/)
 [![Email](https://img.shields.io/badge/Email-adityalkverma484@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityalkverma484@gmail.com)
 
 </div>
@@ -156,8 +156,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-
-**Made with ❤️ by [Aditya Verma](https://github.com/aditya484)**
 
 ⭐ Star this repo if you found it helpful!
 
